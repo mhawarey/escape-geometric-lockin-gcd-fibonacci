@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it, and the article it accompanies, as below."
+title: "Reproduction code for \"Escape from geometric lock-in in GCD-augmented Fibonacci recurrences\""
+version: 1.0.0
+date-released: 2026-10-22
+authors:
+  - family-names: Hawarey
+    given-names: Mosab
+    affiliation: "Geospatial Research"
+    email: director@geospatial.ch
+license: MIT
+repository-code: "https://github.com/mhawarey/escape-geometric-lockin-gcd-fibonacci"
+keywords:
+  - GCD-augmented Fibonacci recurrence
+  - geometric lock-in
+  - Lucas numbers
+  - Pisano period
+preferred-citation:
+  type: article
+  title: "Escape from geometric lock-in in GCD-augmented Fibonacci recurrences"
+  authors:
+    - family-names: Hawarey
+      given-names: Mosab
+  journal: "AIR Journal of Mathematics and Computational Sciences"
+  year: 2026
